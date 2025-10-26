@@ -1,0 +1,11 @@
+git init
+git add .
+git commit -m "first commit"
+git branch -M main
+https://github.com/focusfusion9-oss/Focus-Fusion.git
+git remote add origin https://github.com/focusfusion9-oss/Focus-Fusion.git
+git push -u origin main
+index.html
+package.json
+src/
+public/
